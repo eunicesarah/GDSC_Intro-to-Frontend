@@ -1,0 +1,12 @@
+.title{
+    float: left;
+    font-size: auto;
+    font-weight: 600;
+    color: white;
+    margin: 0;
+}
+
+.title-recipe{
+    float: center;
+    font-size: 50px;
+}
